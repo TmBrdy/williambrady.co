@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Working Ai into the Architectural Design Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af35f352b2fe06f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Working Ai into the Architectural Design Process.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f522ea113a1e71aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Hello.md",
                 "mode": "source",
                 "source": false
@@ -38,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,6 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Hello.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Hello.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +167,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Hello.md"
+              }
             }
           },
           {
@@ -200,17 +228,19 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "fa9c794e21b01903",
+  "active": "f522ea113a1e71aa",
   "lastOpenFiles": [
-    "excalibrain.md",
-    "Hello.md",
+    "home.md",
     "Working Ai into the Architectural Design Process.md",
+    "Untitled.md",
+    "Hello.md",
+    "ExportPopulation2050 1.jpg",
+    "Folder",
+    "excalibrain.md",
     "ExportPopulation2050.jpg",
     "\".md",
-    "ExportPopulation2050 1.jpg",
     "Test.md",
     "1665758253036.jpeg",
-    "Untitled",
     "publish.css.sb-2be2d5a4-8TALaM",
     "publish.css.md",
     "publish.css",
