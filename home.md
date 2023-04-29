@@ -1,5 +1,5 @@
 
-About
+Abou
 
 
 My praxis focus is on developing ways to improve end user agency, health, and well-being in the built environment.

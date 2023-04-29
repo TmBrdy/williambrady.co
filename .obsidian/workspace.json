@@ -11,21 +11,19 @@
             "id": "861b199737b0cfa3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
+                "file": "ExportPopulationToday.jpg"
               }
             }
           },
           {
-            "id": "bf975097caaa4505",
+            "id": "5f41f292f8665df7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
+                "file": "01 Major Explorations/Making urban farming in singapore mainstream.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "01 Major Explorations/Making urban farming in singapore mainstream.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "01 Major Explorations/Making urban farming in singapore mainstream.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "01 Major Explorations/Making urban farming in singapore mainstream.md"
               }
             }
           },
@@ -198,16 +196,18 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bf975097caaa4505",
+  "active": "571698dbfd17f457",
   "lastOpenFiles": [
-    "Ai/Implimenting Ai into the Architectural Design Process - A Studio Casestudy.md",
-    "Research Lead Design/Singapore Urban Farming Adaption.md",
+    "01 Major Explorations/Making it easier to learn guitar chords.md",
+    "01 Major Explorations/Making urban farming in singapore mainstream.md",
     "ExportPopulationToday.jpg",
     "home.md",
+    "01 Projects/Making It Easier to Learn Guitar Chords.md",
+    "01 Projects/Resilience.jpg",
+    "02 Minor Explorations/Implimenting Ai into the Architectural Design Process - A Studio Casestudy.md",
     "README.md",
-    "Resilience.jpg",
-    "Research Lead Design",
-    "Ai",
+    "01 Major Explorations",
+    "02 Minor Explorations",
     "1665758253036.jpeg",
     "Test Folder/Test note.md",
     "Test Folder",
@@ -230,8 +230,6 @@
     "Deep Learning/StyleGAN.md",
     "University/FYP Plan (trying to break things)````.md",
     "Deep Learning/ResNet.md",
-    "Deep Learning/Adam.md",
-    "Deep Learning/Equalized Learning Rate.md",
     "attachments/PID_control_system_analysis_and_design.pdf",
     "attachments/stylegan realism score.png",
     "attachments/current_return_path.png",
