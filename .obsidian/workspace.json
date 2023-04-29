@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research Lead Design/Singapore Urban Farming Adaption.md"
+                "file": "home.md"
               }
             }
           },
@@ -200,13 +200,13 @@
   },
   "active": "bf975097caaa4505",
   "lastOpenFiles": [
+    "Ai/Implimenting Ai into the Architectural Design Process - A Studio Casestudy.md",
+    "Research Lead Design/Singapore Urban Farming Adaption.md",
     "ExportPopulationToday.jpg",
     "home.md",
-    "Research Lead Design/Singapore Urban Farming Adaption.md",
     "README.md",
     "Resilience.jpg",
     "Research Lead Design",
-    "Ai/Implimenting Ai into the Architectural Design Process - A Studio Casestudy.md",
     "Ai",
     "1665758253036.jpeg",
     "Test Folder/Test note.md",
@@ -240,7 +240,6 @@
     "attachments/Pasted image 20220620233246.png",
     "attachments/evolution of deep cnn 2.png",
     "attachments/Pasted image 20220424141351.png",
-    "attachments/GAN knn manifold approximation.png",
     "attachments/pulse_secure_shortcut_icon.ico",
     "attachments/obsidian_vscode_shortcut_icon.ico",
     "netlify.toml",
