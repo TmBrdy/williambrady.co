@@ -34,7 +34,7 @@ jobs:
         with:
           file: "config.toml"
           key: "baseURL"
-          value: "https://wiliambrady.co"          
+          value: "https://williambrady.co"          
           
       - name: Set Description
         continue-on-error: true
@@ -50,7 +50,7 @@ jobs:
         with:
           file: "data/config.toml"
           key: "page_title"
-          value: "William Brady"
+          value: "Thomas William Brady"
           
       
           
