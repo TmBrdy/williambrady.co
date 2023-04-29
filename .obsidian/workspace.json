@@ -8,26 +8,32 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a18385dfe14b505f",
+            "id": "3f923d1ae6ec44d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Hello.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "70ea518d7547baba",
+            "id": "861b199737b0cfa3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb767a625c4cbd35",
+            "type": "leaf",
+            "state": {
+              "type": "image",
               "state": {
-                "file": "publish.css.md",
-                "mode": "source",
-                "source": false
+                "file": "1665758253036.jpeg"
               }
             }
           }
@@ -98,8 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "publish.css.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -115,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "publish.css.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +141,47 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "publish.css.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "18ea7009337f605c",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "97b7c270563a9192",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa9c794e21b01903",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "d6857ae17be51a38",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +193,28 @@
       "command-palette:Open command palette": false,
       "publish:Publish changes": false,
       "markdown-importer:Open format converter": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "70ea518d7547baba",
+  "active": "fa9c794e21b01903",
   "lastOpenFiles": [
-    "repository",
+    "excalibrain.md",
+    "Hello.md",
+    "Working Ai into the Architectural Design Process.md",
+    "ExportPopulation2050.jpg",
+    "\".md",
+    "ExportPopulation2050 1.jpg",
     "Test.md",
-    "publish.css.md"
+    "1665758253036.jpeg",
+    "Untitled",
+    "publish.css.sb-2be2d5a4-8TALaM",
+    "publish.css.md",
+    "publish.css",
+    "theme.css",
+    "repository"
   ]
 }
