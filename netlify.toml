@@ -1,0 +1,81 @@
+[build]
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone https://github.com/TmBrdy/obsidian-zola-plus-minus.git __site && __site/run.sh"
+publish = "public"
+
+
+[build.environment]
+FOOTER = ""
+GANALYTICS = ""
+GRAPH_LINK_REPLACE = "y"
+GRAPH_OPTIONS = """
+        {
+        	nodes: {
+        		shape: "dot", 
+        		color: isDark() ? "#8c8e91" : "#dee2e6",
+        		font: {
+        			face: "Inter",
+        			color: isDark() ? "#c9cdd1" : "#616469",
+        			strokeColor: isDark() ? "#c9cdd1" : "#616469",
+        		},
+        		scaling: {
+        			label: {
+        				enabled: true,
+        			},
+        		},
+        	},
+        	edges: {
+        		color: { inherit: "both" },
+        		width: 0.8,
+        		smooth: {
+        			type: "continuous",
+        		},
+        		hoverWidth: 4,
+        	},
+        	interaction: {
+        		hover: true,
+        	},
+        	height: "100%",
+        	width: "100%",
+        	physics: {
+        		solver: "repulsion",
+        	},
+        }
+        """
+HOME_GRAPH = "y"
+LANDING_BUTTON = "<span>Peek Inside</span>"
+LANDING_DESCRIPTION = "<div>I work on projects that improve end user agency, health and wellbeing. <br> <br>Come see the things I explore<br><br></div>"
+LANDING_PAGE = "home"
+LANDING_TITLE = "<span class='hvr-grow'>Hello and Welcome</span>"
+LOCAL_GRAPH = "y"
+PAGE_GRAPH = "y"
+PYTHON_VERSION = "3.8"
+REPO_URL = "https://github.com/TmBrdy/williambrady.co"
+ROOT_SECTION_NAME = ""
+SITE_TITLE = "Thomas William Brady"
+SITE_TITLE_TAB = "Thomas William Brady"
+SITE_URL = "https://williambrady.co/"
+SLUGIFY = "y"
+STRICT_LINE_BREAKS = "y"
+TIMEZONE = "Asia/Hong_Kong"
+ZOLA_VERSION = "0.15.2"
+
+[[plugins]]
+package = "netlify-plugin-submit-sitemap"
+
+[plugins.inputs]
+
+# The base url of your site (optional, default = main URL set in Netlify)
+baseUrl = "https://williambrady.co/"
+
+# Path to the sitemap URL (optional, default = /sitemap.xml)
+sitemapPath = "/sitemap.xml"
+
+# Time in seconds to not submit the sitemap after successful submission
+ignorePeriod = 0
+
+# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
+providers = [
+  "google",
+  "bing",
+  "yandex",
+]
