@@ -1,5 +1,5 @@
 [build]
-command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/ppeetteerrs/obsidian-zola.git __site && __site/run.sh"
+command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || true && git clone -b dev https://github.com/TmBrdy/obsidian-zola-adaption.git __site && __site/run.sh"
 publish = "public"
 
 [build.environment]
@@ -9,7 +9,7 @@ GRAPH_LINK_REPLACE = "y"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "dot",
+        		shape: "dot", 
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",
@@ -49,7 +49,7 @@ LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
 REPO_URL = "https://github.com/TmBrdy/williambrady.co"
-ROOT_SECTION_NAME = "root"
+ROOT_SECTION_NAME = ""
 SITE_TITLE = "Thomas William Brady"
 SITE_TITLE_TAB = "Thomas William Brady"
 SITE_URL = "https://williambrady.co/"
