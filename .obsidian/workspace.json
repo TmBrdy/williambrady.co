@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "634dd8ed926cc097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "home.md",
+                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "home.md",
+                "file": "Research Lead Design/Singapore Urban Farming Adaption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "home.md"
+                "file": "Research Lead Design/Singapore Urban Farming Adaption.md"
               }
             }
           },
@@ -198,11 +210,14 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "bf975097caaa4505",
+  "active": "634dd8ed926cc097",
   "lastOpenFiles": [
+    "Resilience.jpg",
+    "home.md",
+    "Research Lead Design/Singapore Urban Farming Adaption.md",
+    "Research Lead Design",
     "README.md",
     "Ai/Implimenting Ai into the Architectural Design Process - A Studio Casestudy.md",
-    "home.md",
     "Ai",
     "1665758253036.jpeg",
     "Test Folder/Test note.md",
@@ -228,8 +243,6 @@
     "Deep Learning/ResNet.md",
     "Deep Learning/Adam.md",
     "Deep Learning/Equalized Learning Rate.md",
-    "Maths/Linear Algebra.md",
-    "Programming/Python/Python Imports.md",
     "attachments/PID_control_system_analysis_and_design.pdf",
     "attachments/stylegan realism score.png",
     "attachments/current_return_path.png",
@@ -244,7 +257,6 @@
     "attachments/obsidian_vscode_shortcut_icon.ico",
     "netlify.toml",
     "update.bat",
-    "3D Printing/Firmware",
-    "3D Printing/3D Models"
+    "3D Printing/Firmware"
   ]
 }
