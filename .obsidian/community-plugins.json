@@ -1,11 +1,11 @@
 [
-  "obsidian-git",
-  "obsidian-markdown-formatting-assistant-plugin",
-  "obsidian-pandoc",
+  "obsidian-mind-map",
+  "code-block-copy",
+  "obsidian-hider",
+  "obsidian-emoji-toolbar",
+  "better-word-count",
+  "obsidian-link-converter",
   "table-editor-obsidian",
-  "obsidian-image-toolkit",
-  "excalibrain",
-  "dataview",
-  "obsidian-excalidraw-plugin",
-  "juggl"
+  "calendar",
+  "obsidian-advanced-uri"
 ]
