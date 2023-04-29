@@ -14,8 +14,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "d75b8ddabb0b3753",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Test Folder/Test note.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Folder/Test note.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Folder/Test note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Folder/Test note.md"
+              }
             }
           },
           {
@@ -179,6 +196,9 @@
   },
   "active": "571698dbfd17f457",
   "lastOpenFiles": [
+    "home.md",
+    "Test Folder/Test note.md",
+    "Test Folder",
     "attachments/PID control system analysis, design, and technology.pdf",
     "Tech/Make Conda Great (Less Suckish) Again.md",
     "Deep Learning/Papers to Read.md",
@@ -204,7 +224,6 @@
     "Programming/Python/Python Imports.md",
     "Programming/Python/Python.md",
     "3D Printing/Firmware/Klipper on MPMD V1.md",
-    "3D Printing/3D Models/Motors.md",
     "attachments/PID_control_system_analysis_and_design.pdf",
     "attachments/stylegan realism score.png",
     "attachments/current_return_path.png",
@@ -222,8 +241,6 @@
     "update.bat",
     "3D Printing/Firmware",
     "3D Printing/3D Models",
-    "obsidian-zola tests/repeat name",
-    "Programming/Python",
-    "Website Development"
+    "obsidian-zola tests/repeat name"
   ]
 }
