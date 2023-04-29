@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hello.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello.md"
+                "file": "home.md"
               }
             }
           },
@@ -230,10 +230,10 @@
   },
   "active": "f522ea113a1e71aa",
   "lastOpenFiles": [
+    "Hello.md",
     "home.md",
     "Working Ai into the Architectural Design Process.md",
     "Untitled.md",
-    "Hello.md",
     "ExportPopulation2050 1.jpg",
     "Folder",
     "excalibrain.md",
