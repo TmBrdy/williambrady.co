@@ -19,7 +19,7 @@ SITE_TITLE = "Thomas William Brady"
 # (Optional) Site title in browser tab (leave blank to use SITE_TITLE)
 SITE_TITLE_TAB = "Thomas Willliam Brady"
 # (REQUIRED) Netlify site URL
-SITE_URL = "https://fancy-crepe-b55a2f.netlify.app"
+SITE_URL = "https://williambrady.co"
 # (Optional) Site Timezone
 TIMEZONE = "Asia/Hong_Kong"
 ZOLA_VERSION = "0.15.2"
