@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c9c512aeb469bcd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 Minor Explorations/Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md",
+                "file": "02 Minor Explorations/Test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md",
+                "file": "02 Minor Explorations/Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md"
+                "file": "02 Minor Explorations/Test.md"
               }
             }
           },
@@ -185,12 +198,13 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "861b199737b0cfa3",
+  "active": "571698dbfd17f457",
   "lastOpenFiles": [
+    "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md",
+    "02 Minor Explorations/Test.md",
     "home.md",
     "ExportPopulationToday.jpg",
     "1665758253036.jpeg",
-    "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md",
     "01 Major Explorations/Making urban farming in singapore mainstream.md",
     "01 Major Explorations/Making it easier to learn guitar chords.md",
     "01 Projects/Making It Easier to Learn Guitar Chords.md",
