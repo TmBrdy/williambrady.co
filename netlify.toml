@@ -3,13 +3,13 @@ command = "rm -rf __obsidian __site && mkdir __obsidian && mv * __obsidian || tr
 publish = "public"
 
 [build.environment]
-FOOTER = "Proudly "
-GANALYTICS = "G-GXRDN10PHJ"
+FOOTER = ""
+GANALYTICS = ""
 GRAPH_LINK_REPLACE = "y"
 GRAPH_OPTIONS = """
         {
         	nodes: {
-        		shape: "star",
+        		shape: "circle",
         		color: isDark() ? "#8c8e91" : "#dee2e6",
         		font: {
         			face: "Inter",
@@ -41,17 +41,17 @@ GRAPH_OPTIONS = """
         }
         """
 HOME_GRAPH = "y"
-LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Have a look?</span>"
-LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>My physical brain is <div style='font-size: 4rem; display: inline-block' class='animate__animated animate__pulse animate__infinite '>💤 </div> but my digital brain is active.</div>"
+LANDING_BUTTON = "<span class='shake-rotate shake-freeze'>Peek Inside</span>"
+LANDING_DESCRIPTION = "<div style='margin-bottom: 1rem; margin-top: -3rem;'>Thomas William Brady</div>"
 LANDING_PAGE = "home"
-LANDING_TITLE = "<span class='hvr-grow'>Hi, I'm Peter</span>"
+LANDING_TITLE = "<span class='hvr-grow'>Welcome</span>"
 LOCAL_GRAPH = "y"
 PAGE_GRAPH = "y"
 PYTHON_VERSION = "3.8"
 REPO_URL = "https://github.com/TmBrdy/williambrady.co"
 ROOT_SECTION_NAME = "root"
-SITE_TITLE = "Peter's 2<sup>nd</sup> <span class='hvr-pulse'>🧠</span>"
-SITE_TITLE_TAB = "Peter's Second 🧠"
+SITE_TITLE = "Thomas William Brady"
+SITE_TITLE_TAB = "Thomas William Brady"
 SITE_URL = "https://williambrady.co/"
 SLUGIFY = "y"
 STRICT_LINE_BREAKS = "y"
