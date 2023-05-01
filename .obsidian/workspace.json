@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 Minor Explorations/Test.md",
+                "file": "home.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 Minor Explorations/Test.md",
+                "file": "home.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 Minor Explorations/Test.md",
+                "file": "home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 Minor Explorations/Test.md"
+                "file": "home.md"
               }
             }
           },
@@ -198,7 +198,7 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "571698dbfd17f457",
+  "active": "c9c512aeb469bcd1",
   "lastOpenFiles": [
     "02 Minor Explorations/Bringing Ai into the Architecture Studio Process.md",
     "02 Minor Explorations/Test.md",
